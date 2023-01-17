@@ -33,6 +33,6 @@ python3 main.py
     <img align="right" src="https://user-images.githubusercontent.com/118578799/212908645-29117a2c-022d-4531-82de-bdb469ab964f.jpg" width=180 height=400 />
 </p>
 
-<br>
+<br><br><br>
 
 > Hope you enjoy it
