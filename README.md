@@ -3,10 +3,10 @@
     <p> CryptoKo </p>
 </h1>
 
-###### This app made in python with kivy framework, works with cryptography library
+###### This app made in python with [kivy framework](https://kivy.org), works with [cryptography](https://cryptography.io/en/latest/fernet/#cryptography.fernet.Fernet) library
 ###### Features
-+ **Encript** messages and generate `key`
-+ **Decrypt** messages with `key`
++ **Encrypt** messages and generate key
++ **Decrypt** messages with key
 + **Results** will be copied to clipboard
 + **Simple** and beautiful UI
 
@@ -23,7 +23,7 @@ pip install kivy cryptography
 ```bash
 python3 main.py
 ```
- ###### use [google colab](https://colab.research.google.com/) to compile kivy app to apk easily.
+ ###### use [google colab](https://colab.research.google.com/) and convert your kivy app to apk easily.
 
 
 # Preview
