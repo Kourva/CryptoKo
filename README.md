@@ -27,11 +27,11 @@ python3 main.py
 
 
 # Preview
-<h1 align="center">
-    <img align="left" src="https://user-images.githubusercontent.com/118578799/212908630-4b5c9eb1-d30c-421d-a15e-3946b8cad426.png" />
-    <img align="center" src="https://user-images.githubusercontent.com/118578799/212908637-27649336-3472-48df-9a6f-28c6eda59277.jpg" />
-    <img align="right" src="https://user-images.githubusercontent.com/118578799/212908645-29117a2c-022d-4531-82de-bdb469ab964f.jpg" />
-</h1>
+<p align="center">
+    <img align="left" src="https://user-images.githubusercontent.com/118578799/212908630-4b5c9eb1-d30c-421d-a15e-3946b8cad426.png" width=180 height=400 />
+    <img align="center" src="https://user-images.githubusercontent.com/118578799/212908637-27649336-3472-48df-9a6f-28c6eda59277.jpg" width=180 height=400 />
+    <img align="right" src="https://user-images.githubusercontent.com/118578799/212908645-29117a2c-022d-4531-82de-bdb469ab964f.jpg" width=180 height=400 />
+</p>
 
 <br>
 
