@@ -10,6 +10,11 @@
 + **Results** will be copied to clipboard
 + **Simple** and beautiful UI
 
+# Fernet (symmetric encryption)[¶](https://cryptography.io/en/latest/fernet/#fernet-symmetric-encryption)
+
+Fernet guarantees that a message encrypted using it cannot be manipulated or read without the key. [Fernet](https://github.com/fernet/spec/) is an implementation of symmetric (also known as “secret key”) authenticated cryptography.<br> Fernet also has support for implementing key rotation via `MultiFernet`.
+<br><br>
+This app generates a fresh fernet key for **each message (each time you press `Encrypt` button)**. Keep this some place safe! If you lose it you’ll no longer be able to decrypt messages; if anyone else gains access to it, they’ll be able to decrypt all of your messages, and they’ll also be able forge arbitrary messages that will be authenticated and decrypted.
 # Installation
 + clone
 ```bash
