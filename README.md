@@ -7,7 +7,6 @@
 ###### Features
 + **Encrypt** messages and generate key
 + **Decrypt** messages with key
-+ **Results** will be copied to clipboard
 + **Simple** and beautiful UI
 
 # Fernet (symmetric encryption)[¶](https://cryptography.io/en/latest/fernet/#fernet-symmetric-encryption)
