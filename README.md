@@ -5,9 +5,9 @@
 
 ###### This app made in python with [kivy framework](https://kivy.org), works with [cryptography](https://cryptography.io/en/latest/fernet/#cryptography.fernet.Fernet) library
 ###### Features
-+ **Encrypt** messages and generate key
-+ **Decrypt** messages with key
-+ **Simple** and beautiful UI
++ Encrypt messages and generate key
++ Decrypt messages with key
++ Simple and beautiful UI
 
 # Fernet (symmetric encryption)[¶](https://cryptography.io/en/latest/fernet/#fernet-symmetric-encryption)
 
