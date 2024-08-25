@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 
 
-# GitHub: https://github.com/kozyol/CryptoKo
-# Author: kozyol
+# GitHub: https://github.com/Kourva/CryptoKo
+# Author: Kourva
 
 
 # Imports
