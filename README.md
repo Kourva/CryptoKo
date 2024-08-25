@@ -50,7 +50,7 @@ So... I'm new in Kivy and trying to learn more and more. in future, I may add mo
 # Installation
 + clone
 ```bash
-git clone https://github.com/kozyol/CryptoKo && cd CryptoKo
+git clone https://github.com/Kourva/CryptoKo && cd CryptoKo
 ```
 + requirements
 ```bash
